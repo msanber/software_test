@@ -1,7 +1,5 @@
 # software_test
 
-# ECG Signal Preprocessing
-
 ## Description
 
 This repository contains scripts for preprocessing multichannel ECG data. It includes functions for detecting disconnected channels, applying various filters (spike removal, low-pass, notch, high-pass), and visualizing the results. Additionally, a verification script is provided to test the functionality and performance of the preprocessing pipeline.
